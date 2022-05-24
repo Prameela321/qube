@@ -77,29 +77,6 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 
 
 
-http://localhost:8082/wh_no_2/task_app/index: 
-				user able to signup /sign in
-
-http://localhost:8082/wh_no_2/task_app/register: 
-                 user to register 
-
-http://localhost:8082/wh_no_2/task_app/login:
-                 user to login with credentials
-
-http://localhost:8082/wh_no_2/task_app/view_post:
-               user can see list of tasks which were created
-
-http://localhost:8082/wh_no_2/task_app/view_category:
-              list categories to map with the task category
-
-http://localhost:8082/wh_no_2/task_app/add_category:
-			 for creating new category
-
-http://localhost:8082/wh_no_2/task_app/add_task:
-              user able to create new task
-
-http://localhost:8082/wh_no_2/task_app/edit_task:
-               user to edit task details.
 
 
 
