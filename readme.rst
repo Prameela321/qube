@@ -1,5 +1,6 @@
 **************************
-Project Title : Develop an application to manage a day-to-day task list for workers.
+Project Title : Develop an application to manage a day-to-day users login/task
+.
 **************************
 
 
