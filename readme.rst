@@ -6,13 +6,6 @@ Project Title : Develop an application to manage a day-to-day task list for work
 **************************
 Project Description: -
 **************************
-  Listing out user wants to register / login 
-  user should be able to register himself/herself with Mobile number as username and password 
-  user should be able to login the application 
-  after login user can see list of task which were already created using pagination
-  A task can have a short description,file attachments, task category e.g. Client Visit - Task category has a title 
-  A single page with where worker can see all the tasks, edit a task and option to add a new task 
-
 
 **************************
 how to install:
